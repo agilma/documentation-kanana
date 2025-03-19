@@ -1,5 +1,7 @@
 ---
-description: Berikut adalah tutorial untuk membuat konten baru di website Kanana.
+description: >-
+  Berikut adalah tutorial untuk mengubah konten yang sudah ada di website
+  Kanana.
 layout:
   title:
     visible: true
