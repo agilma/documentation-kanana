@@ -95,11 +95,17 @@ Setelahnya klik gambar yang sudah diupload hingga berwarna kuning, terakhir klik
 {% tab title="Repeater" %}
 Untuk tipe form Repeater, kita dapat membuat banyak konten dalam satu form induk.
 
+<div align="left"><figure><img src=".gitbook/assets/repeater1.png" alt=""><figcaption></figcaption></figure></div>
 
+Untuk menambahkan konten klik Button "Add Social Media" lalu isi  form sesuai dengan data yang diinginkan.
+
+<figure><img src=".gitbook/assets/repeater2.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Teks Editor" %}
+Untuk tipe form Teks Editor kurang lebih sama seperti Teks, namun perbedaannya Teks Editor memiliki pengaturan tulisan untuk tulisannya (seperti bold, italic, dll.).
 
+<figure><img src=".gitbook/assets/teks_editor.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Disabled" %}
@@ -111,15 +117,15 @@ Untuk tipe form Disabled atau berupa check box  tidak perlu di centang jika ingi
 {% endtab %}
 {% endtabs %}
 
-## Langkah 7: Klik "Create and Close"
+## Langkah 5: Klik "Create and Close"
 
 Jika sudah selesai menginputkan data, klik "Create and Close" untuk menyimpan dan kembali ke list konten.
 
-> Tombol "Create" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke list konten, dapat digunakan jika ingin menginputkan banyak konten (lebih dari satu kali).
+> Tombol "Create" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke list konten.
 
 <figure><img src=".gitbook/assets/7_Create.png" alt=""><figcaption></figcaption></figure>
 
-## Langkah 8: Konten berhasil ditambahkan
+## Langkah 6: Konten berhasil ditambahkan
 
 Konten baru telah berhasil ditambahkan.
 
