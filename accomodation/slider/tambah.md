@@ -78,7 +78,7 @@ Setelahnya klik gambar yang sudah diupload hingga berwarna kuning, terakhir klik
 {% endtab %}
 
 {% tab title="Disabled" %}
-Untuk tipe form Disabled atau berupa kotak centang tidak perlu di centang jika ingin menampilkan (aktivasi) konten tersebut di website.
+Untuk tipe form Disabled atau berupa kotak centang  tidak perlu di centang jika ingin menampilkan (aktivasi) konten tersebut di website.
 
 > Kotak centang Disabled hanya boleh dicentang dalam kondisi ingin menyembunyikan (deaktivasi) konten dari website tanpa menghapus konten dari database.
 
