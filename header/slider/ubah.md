@@ -86,7 +86,7 @@ Untuk tipe form Disabled atau berupa check box  tidak perlu di centang jika ingi
 
 ## Langkah 5: Klik "Save and Close"
 
-Jika sudah selesai menginputkan data, klik "Save and Close" untuk menyimpan dan kembali ke daftar konten.
+Jika sudah selesai mengubah data, klik "Save and Close" untuk menyimpan dan kembali ke daftar konten.
 
 > Tombol "Save" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke daftar konten.
 

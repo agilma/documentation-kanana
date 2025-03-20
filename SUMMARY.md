@@ -11,3 +11,4 @@
   * [➕ Tambah](header/slider/tambah.md)
   * [🖋️ Ubah](header/slider/ubah.md)
   * [🗑️ Hapus](header/slider/hapus.md)
+  * [Aktivasi / Deaktivasi](header/slider/aktivasi-deaktivasi.md)
