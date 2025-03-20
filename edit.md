@@ -116,7 +116,7 @@ Jika sudah selesai menginputkan data, klik "Save and Close" untuk menyimpan dan 
 
 > Tombol "Save" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke list konten.
 
-<figure><img src=".gitbook/assets/7_Edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5_edit_new.png" alt=""><figcaption></figcaption></figure>
 
 ## Langkah 6: Konten berhasil ditambahkan
 
