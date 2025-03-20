@@ -110,13 +110,13 @@ Untuk tipe form Disabled atau berupa check box  tidak perlu di centang jika ingi
 {% endtab %}
 {% endtabs %}
 
-## Langkah 5: Klik "Create and Close"
+## Langkah 5: Klik "Save and Close"
 
-Jika sudah selesai menginputkan data, klik "Create and Close" untuk menyimpan dan kembali ke list konten.
+Jika sudah selesai menginputkan data, klik "Save and Close" untuk menyimpan dan kembali ke list konten.
 
-> Tombol "Create" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke list konten.
+> Tombol "Save" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke list konten.
 
-<figure><img src=".gitbook/assets/7_Create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7_Edit.png" alt=""><figcaption></figcaption></figure>
 
 ## Langkah 6: Konten berhasil ditambahkan
 
