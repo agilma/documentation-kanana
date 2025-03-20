@@ -27,11 +27,27 @@
 * [🗑️ Hapus](about/hapus.md)
 * [Aktivasi / Deaktivasi](about/aktivasi-deaktivasi.md)
 
+## Facilities
+
+* [➕ Tambah](facilities/tambah.md)
+* [🖋️ Ubah](facilities/ubah.md)
+* [🗑️ Hapus](facilities/hapus.md)
+* [Aktivasi / Deaktivasi](facilities/aktivasi-deaktivasi.md)
+
 ## Accomodation
 
 * [🖋️ Tulisan Accomodation](accomodation/tulisan-accomodation.md)
-* [↔️ Slider](accomodation/slider/README.md)
-  * [➕ Tambah](accomodation/slider/tambah.md)
-  * [🖋️ Ubah](accomodation/slider/ubah.md)
-  * [🗑️ Hapus](accomodation/slider/hapus.md)
-  * [Aktivasi / Deaktivasi](accomodation/slider/aktivasi-deaktivasi.md)
+* [🛏️ Accomodation](accomodation/accomodation/README.md)
+  * [➕ Tambah](accomodation/accomodation/tambah.md)
+  * [🖋️ Ubah](accomodation/accomodation/ubah.md)
+  * [🗑️ Hapus](accomodation/accomodation/hapus.md)
+  * [Aktivasi / Deaktivasi](accomodation/accomodation/aktivasi-deaktivasi.md)
+
+## Activity
+
+* [🖋️ Tulisan Activity](activity/tulisan-activity.md)
+* [🛏️ Activity](activity/activity/README.md)
+  * [➕ Tambah](activity/activity/tambah.md)
+  * [🖋️ Ubah](activity/activity/ubah.md)
+  * [🗑️ Hapus](activity/activity/hapus.md)
+  * [Aktivasi / Deaktivasi](activity/activity/aktivasi-deaktivasi.md)

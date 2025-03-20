@@ -1,5 +1,5 @@
 ---
-description: Cara tambah, edit, delete, dan aktivasi/deaktivasi slider.
+description: Cara tambah, edit, delete, dan aktivasi/deaktivasi accomodation.
 layout:
   title:
     visible: true
@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# ↔️ Slider
+# 🛏️ Accomodation
 
 {% content-ref url="tambah.md" %}
 [tambah.md](tambah.md)

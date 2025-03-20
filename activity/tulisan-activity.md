@@ -15,7 +15,7 @@ layout:
     visible: false
 ---
 
-# 🖋️ Tulisan Accomodation
+# 🖋️ Tulisan Activity
 
 ## Langkah 1: Klik menu "Edit"
 

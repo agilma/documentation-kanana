@@ -28,7 +28,7 @@ Pilih dan klik bagian "Slider".
 
 <figure><img src="../../.gitbook/assets/2_All (1).png" alt=""><figcaption></figcaption></figure>
 
-## Langkah 3: Pilih konten yang ingin diaktivasi/dideaktivasi
+## Langkah 3: Pilih konten yang ingin diaktivasi / dideaktivasi
 
 Setelah masuk ke bagian "Slider",  akan tampil daftar konten yang telah ditambahkan. Lalu, pilih dan klik konten yang ingin diaktivasi / dideaktivasi.
 

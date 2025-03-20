@@ -1,7 +1,5 @@
 ---
-description: >-
-  Berikut adalah tutorial untuk menambahkan/membuat highlight baru di website
-  Kanana.
+description: Berikut adalah tutorial untuk mengubah facilities di website Kanana.
 layout:
   title:
     visible: true
@@ -15,7 +13,7 @@ layout:
     visible: false
 ---
 
-# ➕ Tambah
+# 🖋️ Ubah
 
 ## Langkah 1: Klik menu "Edit"
 
@@ -23,29 +21,29 @@ Klik menu "Edit" di navbar.
 
 <figure><img src="../.gitbook/assets/1_All.png" alt=""><figcaption></figcaption></figure>
 
-## Langkah 2: Pilih bagian "Highlight"
+## Langkah 2: Pilih bagian "Facilities"
 
-Pilih dan klik bagian "Highlight".
+Pilih dan klik bagian "Facilities".
 
 <figure><img src="../.gitbook/assets/2_All (1).png" alt=""><figcaption></figcaption></figure>
 
-## Langkah 3: Klik "Create"
+## Langkah 3: Pilih konten yang ingin diubah
 
-Setelah masuk ke bagian "Highlight", akan tampil daftar konten yang telah ditambahkan. Lalu, klik "Create" untuk menambahkan konten baru.
+Setelah masuk ke bagian "Facilities",  akan tampil daftar konten yang telah ditambahkan. Lalu, pilih dan klik konten yang ingin diubah.
 
-<figure><img src="../.gitbook/assets/3_HL_Create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3_facilities_edit.png" alt=""><figcaption></figcaption></figure>
 
-## Langkah 4: Isi Form
+## Langkah 4: Ubah isi konten
 
-Setelah masuk ke dalam form, isi form dengan data yang diinginkan.
+Setelah masuk ke dalam form, ubah isi konten sesuai dengan yang diinginkan.
 
-<figure><img src="../.gitbook/assets/4_HL_Create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4_facilities_edit.png" alt=""><figcaption></figcaption></figure>
 
 Berikut beberapa tipe form yang ada dan cara pengisiannya:
 
 {% tabs %}
 {% tab title="Teks" %}
-Untuk tipe form Teks (Title, Subtitle, Content Title, Check-In, Check-Out) kita tinggal mengetikkan saja kalimat yang kita ingin masukkan ke konten.
+Untuk tipe form Teks (About Title & About Subtitle) kita tinggal mengetikkan saja kalimat yang kita ingin masukkan ke konten.
 
 <figure><img src="../.gitbook/assets/4_Header_Teks.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -55,7 +53,7 @@ Untuk tipe form Repeater (Content), kita dapat membuat banyak konten dalam satu 
 
 <div align="left" data-full-width="true"><figure><img src="../.gitbook/assets/4_HL_Repeater1.png" alt=""><figcaption></figcaption></figure></div>
 
-Untuk menambahkan konten klik Button "Add Content" lalu isi form sesuai dengan data yang diinginkan.
+Untuk menambahkan konten klik Button "Add Content" lalu isi  form sesuai dengan data yang diinginkan.
 
 <figure><img src="../.gitbook/assets/4_HL_Repeater2.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -63,7 +61,7 @@ Untuk menambahkan konten klik Button "Add Content" lalu isi form sesuai dengan d
 {% tab title="Dropdown" %}
 Untuk tipe form Dropdown (Content Icon), akan terdapat pilihan yang telah disediakan dan kita tinggal memilih salah satu dari pilihan tersebut.
 
-<figure><img src="../.gitbook/assets/4_HL_dropdown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4_dropdown.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Disabled" %}
@@ -75,16 +73,16 @@ Untuk tipe form Disabled atau berupa kotak centang tidak perlu di centang jika i
 {% endtab %}
 {% endtabs %}
 
-## Langkah 5: Klik "Create and Close"
+## Langkah 5: Klik "Save and Close"
 
-Jika sudah selesai menginputkan data, klik "Create and Close" untuk menyimpan dan kembali ke daftar konten.
+Jika sudah selesai mengubah data, klik "Save and Close" untuk menyimpan dan kembali ke daftar konten.
 
-> Tombol "Create" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke daftar konten.
+> Tombol "Save" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke daftar konten.
 
-<figure><img src="../.gitbook/assets/5_HL_Create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5_facilities_edit.png" alt=""><figcaption></figcaption></figure>
 
-## Langkah 6: Konten berhasil ditambahkan
+## Langkah 6: Konten berhasil diubah
 
-Konten baru telah berhasil ditambahkan.
+Konten telah berhasil diubah.
 
-<figure><img src="../.gitbook/assets/6_HL_Create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6_facilities_edit.png" alt=""><figcaption></figcaption></figure>

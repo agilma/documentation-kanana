@@ -23,35 +23,43 @@ Klik menu "Edit" di navbar.
 
 <figure><img src="../../.gitbook/assets/1_All.png" alt=""><figcaption></figcaption></figure>
 
-## Langkah 2: Pilih bagian "Slider"
+## Langkah 2: Pilih bagian "Accomodation"
 
-Pilih dan klik bagian "Slider".
+Pilih dan klik bagian "Accomodation".
 
 <figure><img src="../../.gitbook/assets/2_All (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Langkah 3: Klik "Create"
 
-Setelah masuk ke bagian "Slider", akan tampil daftar konten yang telah ditambahkan. Lalu, klik "Create" untuk menambahkan konten baru.
+Setelah masuk ke bagian "Accomodation", akan tampil daftar konten yang telah ditambahkan. Lalu, klik "Create" untuk menambahkan konten baru.
 
-<figure><img src="../../.gitbook/assets/3_Slider_Create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3_acco_create.png" alt=""><figcaption></figcaption></figure>
 
 ## Langkah 4: Isi Form
 
 Setelah masuk ke dalam form, isi form dengan data yang diinginkan.
 
-<figure><img src="../../.gitbook/assets/4_Slider_Create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4_Create_New.png" alt=""><figcaption></figcaption></figure>
 
 Berikut beberapa tipe form yang ada dan cara pengisiannya:
 
 {% tabs %}
 {% tab title="Teks" %}
-Untuk tipe form Teks (Slider Title) kita tinggal mengetikkan saja kalimat yang kita ingin masukkan ke konten.
+Untuk tipe form Teks (Room Title, Bed Type) kita tinggal mengetikkan saja kalimat yang kita ingin masukkan ke konten.
 
 <figure><img src="../../.gitbook/assets/4_Header_Teks.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
+{% tab title="Nomor / Angka" %}
+Untuk tipe form Nomor / Angka (Number of Guests, Room Size) kita hanya bisa menginputkan berupa angka yang ingin kita masukkan ke konten.
+
+<figure><img src="../../.gitbook/assets/4_angka.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
 {% tab title="Image" %}
-Untuk tipe form Image (Slider Image), ikuti langkah berikut untuk menambahkan Image ke dalam konten.
+Untuk tipe form Image (Thumbnail Image, Room Images), ikuti langkah berikut untuk menambahkan Image ke dalam konten.
+
+> Khusus untuk form Room Images kita dapat memasukkan gambar lebih dari satu.
 
 <figure><img src="../../.gitbook/assets/4_Create_Image.png" alt=""><figcaption></figcaption></figure>
 
@@ -92,10 +100,10 @@ Jika sudah selesai menginputkan data, klik "Create and Close" untuk menyimpan da
 
 > Tombol "Create" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke daftar konten.
 
-<figure><img src="../../.gitbook/assets/5_Slider_Create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5_acco_create.png" alt=""><figcaption></figcaption></figure>
 
 ## Langkah 6: Konten berhasil ditambahkan
 
 Konten baru telah berhasil ditambahkan.
 
-<figure><img src="../../.gitbook/assets/6_Slider_Create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6_acco_create.png" alt=""><figcaption></figcaption></figure>
