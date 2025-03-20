@@ -25,7 +25,7 @@ Klik menu "Edit" di navbar.
 
 ## Langkah 2: Pilih section konten&#x20;
 
-Pilih section konten mana yang ingin ditambahkan (contoh: kita pilih accomodation).
+Pilih section konten mana yang ingin diubah (contoh: kita pilih accomodation).
 
 <figure><img src=".gitbook/assets/2_All (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -118,8 +118,8 @@ Jika sudah selesai menginputkan data, klik "Save and Close" untuk menyimpan dan 
 
 <figure><img src=".gitbook/assets/5_edit_new.png" alt=""><figcaption></figcaption></figure>
 
-## Langkah 6: Konten berhasil ditambahkan
+## Langkah 6: Konten berhasil diubah
 
-Konten baru telah berhasil ditambahkan.
+Konten telah berhasil diubah.
 
 <figure><img src=".gitbook/assets/8_Edit.png" alt=""><figcaption></figcaption></figure>
