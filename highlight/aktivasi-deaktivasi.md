@@ -1,5 +1,7 @@
 ---
-description: Berikut adalah tutorial untuk aktivasi / deaktivasi slider di website Kanana.
+description: >-
+  Berikut adalah tutorial untuk aktivasi / deaktivasi highlight di website
+  Kanana.
 icon: toggle-large-on
 layout:
   title:
