@@ -1,5 +1,5 @@
 ---
-description: Berikut adalah tutorial untuk mengubah slider di website Kanana.
+description: Berikut adalah tutorial untuk mengubah explore nearby di website Kanana.
 layout:
   title:
     visible: true
@@ -21,35 +21,35 @@ Klik menu "Edit" di navbar.
 
 <figure><img src="../../.gitbook/assets/1_All.png" alt=""><figcaption></figcaption></figure>
 
-## Langkah 2: Pilih bagian "Activity"
+## Langkah 2: Pilih bagian "Explore Nearby"
 
-Pilih dan klik bagian "Activity".
+Pilih dan klik bagian "Explore Nearby".
 
 <figure><img src="../../.gitbook/assets/2_All (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Langkah 3: Pilih konten yang ingin diubah
 
-Setelah masuk ke bagian "Activity",  akan tampil daftar konten yang telah ditambahkan. Lalu, pilih dan klik konten yang ingin diubah.
+Setelah masuk ke bagian "Explore Nearby",  akan tampil daftar konten yang telah ditambahkan. Lalu, pilih dan klik konten yang ingin diubah.
 
-<figure><img src="../../.gitbook/assets/3_activity_edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3_en_edit.png" alt=""><figcaption></figcaption></figure>
 
 ## Langkah 4: Ubah isi konten
 
 Setelah masuk ke dalam form, ubah isi konten sesuai dengan yang diinginkan.
 
-<figure><img src="../../.gitbook/assets/4_activity_edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4_en_edit.png" alt=""><figcaption></figcaption></figure>
 
 Berikut beberapa tipe form yang ada dan cara pengisiannya:
 
 {% tabs %}
 {% tab title="Teks" %}
-Untuk tipe form Teks (Activity Title & Actvity Subtitle) kita tinggal mengetikkan saja kalimat yang kita ingin masukkan ke konten.
+Untuk tipe form Teks (Explore Nearby Title) kita tinggal mengetikkan saja kalimat yang kita ingin masukkan ke konten.
 
 <figure><img src="../../.gitbook/assets/4_Header_Teks.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Image" %}
-Untuk tipe form Image (Activity Image), ikuti langkah berikut untuk menambahkan Image ke dalam konten.
+Untuk tipe form Image (Explore Nearby Image), ikuti langkah berikut untuk menambahkan Image ke dalam konten.
 
 <figure><img src="../../.gitbook/assets/4_2_Slider_Edit_Image.png" alt=""><figcaption></figcaption></figure>
 
@@ -90,10 +90,10 @@ Jika sudah selesai mengubah data, klik "Save and Close" untuk menyimpan dan kemb
 
 > Tombol "Save" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke daftar konten.
 
-<figure><img src="../../.gitbook/assets/5_activity_edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5_en_edit.png" alt=""><figcaption></figcaption></figure>
 
 ## Langkah 6: Konten berhasil diubah
 
 Konten telah berhasil diubah.
 
-<figure><img src="../../.gitbook/assets/6_activity_edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6_en_edit.png" alt=""><figcaption></figcaption></figure>

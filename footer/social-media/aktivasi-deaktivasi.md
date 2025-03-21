@@ -1,6 +1,6 @@
 ---
 description: >-
-  Berikut adalah tutorial untuk aktivasi / deaktivasi activity di website
+  Berikut adalah tutorial untuk aktivasi / deaktivasi social media di website
   Kanana.
 icon: toggle-large-on
 layout:
@@ -24,21 +24,21 @@ Klik menu "Edit" di navbar.
 
 <figure><img src="../../.gitbook/assets/1_All.png" alt=""><figcaption></figcaption></figure>
 
-## Langkah 2: Pilih bagian "Activity"
+## Langkah 2: Pilih bagian "Footer"
 
-Pilih dan klik bagian "Activity".
+Pilih dan klik bagian "Footer".
 
 <figure><img src="../../.gitbook/assets/2_All (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Langkah 3: Pilih konten yang ingin diaktivasi/dideaktivasi
 
-Setelah masuk ke bagian "Activity",  akan tampil daftar konten yang telah ditambahkan. Lalu, pilih dan klik konten yang ingin diaktivasi / dideaktivasi.
+Setelah masuk ke bagian "Footer",  akan tampil daftar konten yang telah ditambahkan. Lalu, pilih dan klik konten yang ingin konten social medianya diaktivasi / dideaktivasi.
 
-<figure><img src="../../.gitbook/assets/3_activity_edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3_footer_alamat.png" alt=""><figcaption></figcaption></figure>
 
 ## Langkah 4: Aktivasi / Deaktivasi konten
 
-Setelah masuk ke dalam form, fokus pada bagian Disabled.&#x20;
+Setelah masuk ke dalam form, fokus pada bagian Disabled pada setiap konten di Social Media.&#x20;
 
 * Jika ingin melakukan aktivasi (menampilkan konten di website), maka tidak perlu mencentang kotak centang Disabled.
 * Jika ingin melakukan deaktivasi (menyembunyikan konten di website), maka kita perlu untuk mencentang kotak centang Disabled.
@@ -51,4 +51,4 @@ Jika sudah selesai mengubah data, klik "Save and Close" untuk menyimpan dan kemb
 
 > Tombol "Save" hanya berfungsi untuk menyimpan konten tanpa menavigasi kembali ke daftar konten.
 
-<figure><img src="../../.gitbook/assets/5_activity_edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5_footer_alamat.png" alt=""><figcaption></figcaption></figure>

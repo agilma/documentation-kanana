@@ -1,5 +1,6 @@
 ---
-description: Cara tambah, edit, delete, dan aktivasi/deaktivasi activity.
+description: Cara tambah, edit, delete, dan aktivasi/deaktivasi social media footer.
+icon: instagram
 layout:
   title:
     visible: true
@@ -13,7 +14,7 @@ layout:
     visible: false
 ---
 
-# 👪 Activity
+# Social Media
 
 {% content-ref url="tambah.md" %}
 [tambah.md](tambah.md)

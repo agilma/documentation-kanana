@@ -1,5 +1,5 @@
 ---
-description: Cara tambah, edit, delete, dan aktivasi/deaktivasi activity.
+description: Cara tambah, edit, delete, dan aktivasi/deaktivasi explore nearby.
 layout:
   title:
     visible: true
@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# 👪 Activity
+# 🔍 Explore Nearby
 
 {% content-ref url="tambah.md" %}
 [tambah.md](tambah.md)
