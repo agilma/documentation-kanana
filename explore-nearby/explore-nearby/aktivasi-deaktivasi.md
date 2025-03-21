@@ -1,6 +1,6 @@
 ---
 description: >-
-  Berikut adalah tutorial untuk aktivasi / deaktivasi activity di website
+  Berikut adalah tutorial untuk aktivasi / deaktivasi explore nearby di website
   Kanana.
 icon: toggle-large-on
 layout:

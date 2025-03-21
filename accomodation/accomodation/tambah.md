@@ -1,6 +1,6 @@
 ---
 description: >-
-  Berikut adalah tutorial untuk menambahkan/membuat slider baru di website
+  Berikut adalah tutorial untuk menambahkan/membuat accomodation baru di website
   Kanana.
 layout:
   title:

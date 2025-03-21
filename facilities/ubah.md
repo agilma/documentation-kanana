@@ -43,7 +43,7 @@ Berikut beberapa tipe form yang ada dan cara pengisiannya:
 
 {% tabs %}
 {% tab title="Teks" %}
-Untuk tipe form Teks (About Title & About Subtitle) kita tinggal mengetikkan saja kalimat yang kita ingin masukkan ke konten.
+Untuk tipe form Teks (Title , Subtitle, Content Title, Content Subtitle) kita tinggal mengetikkan saja kalimat yang kita ingin masukkan ke konten.
 
 <figure><img src="../.gitbook/assets/4_Header_Teks.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}

@@ -1,5 +1,5 @@
 ---
-description: Berikut adalah tutorial untuk mengubah slider di website Kanana.
+description: Berikut adalah tutorial untuk mengubah accomodation di website Kanana.
 layout:
   title:
     visible: true
